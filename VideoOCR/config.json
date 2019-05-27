@@ -1,0 +1,6 @@
+{
+	"video_path": "VIDEO_PATH.mp4",
+	"tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract",
+	"mse_threshold": 10,
+	"sec_skip": 2
+}
